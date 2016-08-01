@@ -1,7 +1,7 @@
 # Note
 
 * Host server must be in china
-* Only support centos 32/64
+* Only support Centos 32/64 bit
 * If you want to run pdnsd on other system(Linux,Mac)
 * You can 'python install.py set_dir /**/pdnsd.conf',WARM : it will cover the original file
 
